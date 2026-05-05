@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mos6il8z47ka4"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mos6il8z47ka4">
+    <organization identifier="eXe-mos6il8z47ka4" structure="hierarchical">
+      <title>EXPLORAMOS ESPAÑA</title>
+      <item identifier="ITEM-page-mos69xpo-hugpl2yq8" identifierref="RES-page-mos69xpo-hugpl2yq8" isvisible="true">
+        <title>INICIO</title>
+      </item>
+      <item identifier="ITEM-page-mos69xpu-3fim2hrbg" identifierref="RES-page-mos69xpu-3fim2hrbg" isvisible="true">
+        <title>DESCRIPCIÓN DEL PROYECTO</title>
+      </item>
+      <item identifier="ITEM-page-mos69xpv-eqh6efb46" identifierref="RES-page-mos69xpv-eqh6efb46" isvisible="true">
+        <title>PROTECCIÓN DE DATOS</title>
+      </item>
+      <item identifier="ITEM-page-mos69xpw-i1szmjq8f" identifierref="RES-page-mos69xpw-i1szmjq8f" isvisible="true">
+        <title>DESCRIPCIÓN DEL PRODUCTO FINAL</title>
+      </item>
+      <item identifier="ITEM-page-mos69xpy-eatlo25bd" identifierref="RES-page-mos69xpy-eatlo25bd" isvisible="true">
+        <title>HERRAMIENTAS</title>
+      </item>
+      <item identifier="ITEM-page-mos69xpz-68qdha8zz" identifierref="RES-page-mos69xpz-68qdha8zz" isvisible="true">
+        <title>LÍNEA TEMPORAL</title>
+      </item>
+      <item identifier="ITEM-page-mos69xq1-7jyqvj690" identifierref="RES-page-mos69xq1-7jyqvj690" isvisible="true">
+        <title>CRITERIOS DE EVALUACIÓN</title>
+      </item>
+      <item identifier="ITEM-page-mos69xq2-q786i0w44" identifierref="RES-page-mos69xq2-q786i0w44" isvisible="true">
+        <title>INSTRUMENTOS DE EVALUACIÓN</title>
+      </item>
+      <item identifier="ITEM-page-mos69xq3-324x1z1xw" identifierref="RES-page-mos69xq3-324x1z1xw" isvisible="true">
+        <title>GUÍA DIDÁCTICA</title>
+      </item>
+      <item identifier="ITEM-page-mos69xq4-yhvcowh97" identifierref="RES-page-mos69xq4-yhvcowh97" isvisible="true">
+        <title>CONCLUSIÓN </title>
+      </item>
+      <item identifier="ITEM-page-mos69xq6-ehe60kfe8" identifierref="RES-page-mos69xq6-ehe60kfe8" isvisible="true">
+        <title>CRÉDITOS</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mos69xpo-hugpl2yq8" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xpu-3fim2hrbg" type="webcontent" adlcp:scormtype="sco" href="html/descripcion-del-proyecto.html">
+      <file href="html/descripcion-del-proyecto.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xpv-eqh6efb46" type="webcontent" adlcp:scormtype="sco" href="html/proteccion-de-datos.html">
+      <file href="html/proteccion-de-datos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xpw-i1szmjq8f" type="webcontent" adlcp:scormtype="sco" href="html/descripcion-del-producto-final.html">
+      <file href="html/descripcion-del-producto-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xpy-eatlo25bd" type="webcontent" adlcp:scormtype="sco" href="html/herramientas.html">
+      <file href="html/herramientas.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xpz-68qdha8zz" type="webcontent" adlcp:scormtype="sco" href="html/linea-temporal.html">
+      <file href="html/linea-temporal.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xq1-7jyqvj690" type="webcontent" adlcp:scormtype="sco" href="html/criterios-de-evaluacion.html">
+      <file href="html/criterios-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xq2-q786i0w44" type="webcontent" adlcp:scormtype="sco" href="html/instrumentos-de-evaluacion.html">
+      <file href="html/instrumentos-de-evaluacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xq3-324x1z1xw" type="webcontent" adlcp:scormtype="sco" href="html/guia-didactica.html">
+      <file href="html/guia-didactica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xq4-yhvcowh97" type="webcontent" adlcp:scormtype="sco" href="html/conclusion-.html">
+      <file href="html/conclusion-.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mos69xq6-ehe60kfe8" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/2a65b442-4797-c51a-5559-f044fc609eb0.png"/>
+      <file href="content/resources/7.1Línea temporal para la organización.jpg"/>
+      <file href="content/resources/Criterios de evaluación.png"/>
+      <file href="content/resources/af70900a-e49c-32cb-ea01-f7339069f6b3.jpg"/>
+      <file href="idevices/download-source-file/download-package-licenses.png"/>
+      <file href="idevices/download-source-file/download-source-file.css"/>
+      <file href="idevices/download-source-file/download-source-file.js"/>
+      <file href="idevices/download-source-file/exequextsq.svg"/>
+      <file href="idevices/image-gallery/exequextsq.svg"/>
+      <file href="idevices/image-gallery/image-gallery.css"/>
+      <file href="idevices/image-gallery/image-gallery.html"/>
+      <file href="idevices/image-gallery/image-gallery.js"/>
+      <file href="idevices/image-gallery/simple-lightbox.min.css"/>
+      <file href="idevices/image-gallery/simple-lightbox.min.js"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/elpx-manifest.js"/>
+      <file href="libs/exe_elpx_download/exe_elpx_download.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/fflate/fflate.umd.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Nunito-Bold.woff"/>
+      <file href="theme/fonts/Nunito-Bold.woff2"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff"/>
+      <file href="theme/fonts/Nunito-BoldItalic.woff2"/>
+      <file href="theme/fonts/Nunito-Italic.woff"/>
+      <file href="theme/fonts/Nunito-Italic.woff2"/>
+      <file href="theme/fonts/Nunito-Regular.woff"/>
+      <file href="theme/fonts/Nunito-Regular.woff2"/>
+      <file href="theme/icons/activity.png"/>
+      <file href="theme/icons/agreement.png"/>
+      <file href="theme/icons/alert.png"/>
+      <file href="theme/icons/arts.png"/>
+      <file href="theme/icons/ask.png"/>
+      <file href="theme/icons/book.png"/>
+      <file href="theme/icons/calculate.png"/>
+      <file href="theme/icons/case.png"/>
+      <file href="theme/icons/chrono.png"/>
+      <file href="theme/icons/collaborative.png"/>
+      <file href="theme/icons/competencies.png"/>
+      <file href="theme/icons/diary.png"/>
+      <file href="theme/icons/diary_alt.png"/>
+      <file href="theme/icons/discuss.png"/>
+      <file href="theme/icons/download.png"/>
+      <file href="theme/icons/draw.png"/>
+      <file href="theme/icons/english.png"/>
+      <file href="theme/icons/experiment.png"/>
+      <file href="theme/icons/explore.png"/>
+      <file href="theme/icons/file.png"/>
+      <file href="theme/icons/gallery.png"/>
+      <file href="theme/icons/geography.png"/>
+      <file href="theme/icons/guide.png"/>
+      <file href="theme/icons/history.png"/>
+      <file href="theme/icons/info.png"/>
+      <file href="theme/icons/interactive.png"/>
+      <file href="theme/icons/letters.png"/>
+      <file href="theme/icons/listen.png"/>
+      <file href="theme/icons/math.png"/>
+      <file href="theme/icons/music.png"/>
+      <file href="theme/icons/nature.png"/>
+      <file href="theme/icons/objetives.png"/>
+      <file href="theme/icons/observe.png"/>
+      <file href="theme/icons/passport.png"/>
+      <file href="theme/icons/perform.png"/>
+      <file href="theme/icons/piece.png"/>
+      <file href="theme/icons/pieces.png"/>
+      <file href="theme/icons/play.png"/>
+      <file href="theme/icons/present.png"/>
+      <file href="theme/icons/reflection.png"/>
+      <file href="theme/icons/roadmap.png"/>
+      <file href="theme/icons/share.png"/>
+      <file href="theme/icons/sport.png"/>
+      <file href="theme/icons/start.png"/>
+      <file href="theme/icons/stop.png"/>
+      <file href="theme/icons/suitcase.png"/>
+      <file href="theme/icons/technology.png"/>
+      <file href="theme/icons/think.png"/>
+      <file href="theme/icons/think_alt.png"/>
+      <file href="theme/icons/video.png"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_color.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_down_color.svg"/>
+      <file href="theme/img/arrow_down_white.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/arrow_up.svg"/>
+      <file href="theme/img/arrow_up_white.svg"/>
+      <file href="theme/img/back_arrow.svg"/>
+      <file href="theme/img/background.png"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/book_white.svg"/>
+      <file href="theme/img/forward_arrow.svg"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/menu_open_black.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
